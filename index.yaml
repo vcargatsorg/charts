@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  quickstart:
+  - apiVersion: v1
+    appVersion: 0.0.5
+    created: "2022-08-06T23:45:28.458147614Z"
+    description: A Helm chart for Kubernetes
+    digest: c6761893a3e6c0a4ef6d5ca80f6036a253c9a9cf97d2f793937a345a4a95ed3a
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: quickstart
+    urls:
+    - quickstart-0.0.5.tgz
+    version: 0.0.5
+generated: "2022-08-06T23:45:28.377869638Z"
