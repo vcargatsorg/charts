@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   metallb:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2022-08-10T13:50:36.867244324-04:00"
+    description: A Helm chart for MetalLB load balancer
+    digest: 0456899692b6b5b1205272c4c9f5ff946a35622a51e7e08161dfe4a27530f112
+    home: https://github.com/vcargatsorg/metallb
+    icon: https://raw.githubusercontent.com/metallb/metallb/main/website/static/images/logo/metallb-blue.png
+    name: metallb
+    urls:
+    - metallb-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
-    created: "2022-08-10T06:40:47.624662998-04:00"
+    created: "2022-08-10T13:50:36.866330098-04:00"
     description: A Helm chart for MetalLB load balancer
     digest: a7c33787aacc96e20534ef60c5b82ffae4573d432848bf790a203cf4d0e4c651
     home: https://github.com/vcargatsorg/metallb
@@ -15,7 +26,7 @@ entries:
   quickstart:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2022-08-10T06:40:47.626101064-04:00"
+    created: "2022-08-10T13:50:36.868584304-04:00"
     description: A Helm chart for Kubernetes
     digest: c6761893a3e6c0a4ef6d5ca80f6036a253c9a9cf97d2f793937a345a4a95ed3a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,4 +34,4 @@ entries:
     urls:
     - quickstart-0.0.5.tgz
     version: 0.0.5
-generated: "2022-08-10T06:40:47.623314454-04:00"
+generated: "2022-08-10T13:50:36.864678348-04:00"
