@@ -1,9 +1,21 @@
 apiVersion: v1
 entries:
+  metallb:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2022-08-10T06:18:26.3501198-04:00"
+    description: A Helm chart for Tekton Pipelines
+    digest: 514859a111988e72ebcb35b652aa418396cd54ab022612562991813c0d7b6e95
+    home: https://github.com/jenkins-x-charts/metallb
+    icon: https://raw.githubusercontent.com/metallb/metallb/main/website/static/images/logo/metallb-blue.png
+    name: metallb
+    urls:
+    - metallb-1.0.1.tgz
+    version: 1.0.1
   quickstart:
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2022-08-06T23:45:28.458147614Z"
+    created: "2022-08-10T06:18:26.351564572-04:00"
     description: A Helm chart for Kubernetes
     digest: c6761893a3e6c0a4ef6d5ca80f6036a253c9a9cf97d2f793937a345a4a95ed3a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -11,4 +23,4 @@ entries:
     urls:
     - quickstart-0.0.5.tgz
     version: 0.0.5
-generated: "2022-08-06T23:45:28.377869638Z"
+generated: "2022-08-10T06:18:26.348936574-04:00"
